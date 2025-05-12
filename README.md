@@ -29,9 +29,32 @@
 </div>
 
 ###
+## 🚀 About Me
 
-<h4 align="left">## 🚀 About Me<br>Hi, I am Chirag Dahiya a Computer Science major <br><br>* 💫 A Full Stack Web Developer<br>* 🖥️ Frontend: As a Creative individual Frontend has a special place with technologies like: NextJS, Figma, React, Reduxjs, Node.js, HTML, CSS, JavaScript.<br>* 🔍 BackEnd: Express, MongoDB, NodeJS & MySQL<br>* 🛠️ Solid understanding of DSA concepts and Object oriented programming principles for developing robust software solutions.<br>* 💼 Currently seeking opportunities to learn and grow</h4>
+Hi, I'm **Chirag Dahiya**, a Computer Science undergrad and passionate **Full Stack Web Developer** with real-world experience delivering modern, scalable applications across various domains including fintech, edtech, and social platforms.
 
+I'm currently building **LeetAI**, a Chrome extension leveraging LLMs to offer intelligent, real-time solutions directly on coding platforms like LeetCode—helping users reduce learning time by 40%.
+Feel free to check it out the repository and the demo.
+
+---
+
+### 💻 Tech Stack
+
+#### Frontend:
+- **React**, **Next.js**, **Redux**, **TailwindCSS**, **Bootstrap**, **Figma**, **Shadcn UI**, **Tanstack**, **Zod**,
+- Passion for clean UI/UX and design systems with a mobile-first approach.
+
+#### Backend:
+- **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **PostgreSQL**, **Redis**, **Supabase**, **Stripe**,
+- API-first development with focus on security, modularization, and scalability.
+
+#### DevOps & Tools:
+- **Docker**, **GitHub**, **Rate Limiting**, **User Authentication & Authorization**, **RESTful & 3rd Party APIs**
+
+#### Programming Languages:
+- **TypeScript**, **JavaScript**, **C++**, **Python**, **C**, **Go**, **C++**, **Next**
+
+---
 ###
 
 <div align="left">
